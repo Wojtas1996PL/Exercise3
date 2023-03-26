@@ -1,8 +1,8 @@
 /*
-Exercise 1a - create multidimensional array (10 rows, 10 columns) starting with 1, ending with 100
-Exercise 1b - swap every odd number for 999
-Exercise 1c - add bonus column which will display sum of numbers in a row (do it for every row)
-Exercise 1d - add bonus column which will display sum of numbers in a column (do it for every column)
+Exercise 3a - create multidimensional array (10 rows, 10 columns) starting with 1, ending with 100
+Exercise 3b - swap every odd number for 999
+Exercise 3c - add bonus column which will display sum of numbers in a row (do it for every row)
+Exercise 3d - add bonus column which will display sum of numbers in a column (do it for every column)
 */
 public class Exercise3 {
     public static void main(String[] args) {
